@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>example: guab, giab.@, gbao.gmail, ....</description>
+   <name>error_syntax_email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78d167ca-e0cc-4375-96b4-5ded61d12a74</testCaseGuid>
+</TestCaseEntity>
