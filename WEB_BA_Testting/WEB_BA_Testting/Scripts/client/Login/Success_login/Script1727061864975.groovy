@@ -23,13 +23,13 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Page_Biolife - Organic Food/login_field'))
 
-WebUI.setText(findTestObject('Page_Biolife - Organic Food/input_email_login'), 'gbao2893@gmail.com')
+WebUI.setText(findTestObject('Page_Biolife - Organic Food/input_email_login'), 'laptrinhmobilecntc@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Page_Biolife - Organic Food/input_password_login'), 'aeHFOx8jV/A=')
 
 WebUI.click(findTestObject('Page_Biolife - Organic Food/button_login'))
 
-WebUI.verifyElementText(findTestObject('Page_Biolife - Organic Food/checking_success_login_text'), 'bao')
+WebUI.verifyElementText(findTestObject('Page_Biolife - Organic Food/checking_success_login_text'), 'group1')
 
 WebUI.closeBrowser()
 

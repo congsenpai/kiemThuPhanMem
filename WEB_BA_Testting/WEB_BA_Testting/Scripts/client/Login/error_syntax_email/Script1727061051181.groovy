@@ -23,13 +23,13 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Page_Biolife - Organic Food/login_field'))
 
-WebUI.setText(findTestObject('Page_Biolife - Organic Food/input_email_login'), 'gbao2893')
+WebUI.setText(findTestObject('Page_Biolife - Organic Food/input_email_login'), 'laptrinhmobilecntc@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Page_Biolife - Organic Food/input_password_login'), 'aeHFOx8jV/A=')
 
 WebUI.click(findTestObject('Page_Biolife - Organic Food/button_login'))
 
-WebUI.verifyElementText(findTestObject('Page_Biolife - Organic Food/Fault_syntax_email_alert'), 'The email field must be a valid email address.')
+WebUI.verifyElementText(findTestObject('Page_Biolife - Organic Food/Fault_syntax_email_login_alert'), 'The email field must be a valid email address.')
 
 WebUI.closeBrowser()
 

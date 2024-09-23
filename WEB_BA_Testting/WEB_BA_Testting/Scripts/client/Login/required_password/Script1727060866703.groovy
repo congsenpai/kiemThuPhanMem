@@ -23,7 +23,7 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Page_Biolife - Organic Food/login_field'))
 
-WebUI.setText(findTestObject('Page_Biolife - Organic Food/input_email_login'), 'gbao2893@gmail.com')
+WebUI.setText(findTestObject('Page_Biolife - Organic Food/input_email_login'), 'laptrinhmobilecntc@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Page_Biolife - Organic Food/input_password_login'), '')
 

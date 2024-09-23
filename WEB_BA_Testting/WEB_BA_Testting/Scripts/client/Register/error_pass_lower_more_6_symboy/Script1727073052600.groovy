@@ -21,15 +21,19 @@ WebUI.openBrowser('http://127.0.0.1:8000/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Page_Biolife - Organic Food/login_field'))
+WebUI.click(findTestObject('Register/register_field'))
 
-WebUI.setText(findTestObject('Page_Biolife - Organic Food/input_email_login'), 'laptrinhmobilecntc@gmail.com')
+WebUI.setText(findTestObject('Register/input_name_register'), 'group1')
 
-WebUI.setEncryptedText(findTestObject('Page_Biolife - Organic Food/input_password_login'), 'tzH6RvlfSTg=')
+WebUI.setText(findTestObject('Register/input_email_register'), 'laptrinhmobilecntc@gmail.com')
 
-WebUI.click(findTestObject('Page_Biolife - Organic Food/button_login'))
+WebUI.setEncryptedText(findTestObject('Register/input_password_register'), 'tzH6RvlfSTg=')
 
-WebUI.verifyElementText(findTestObject('Page_Biolife - Organic Food/Failure_login_alert'), 'Thông tin đăng nhập được cung cấp không khớp hoặc tài khoản của bạn đã bị khóa.')
+WebUI.setEncryptedText(findTestObject('Register/input_confim_password_register'), 'tzH6RvlfSTg=')
+
+WebUI.click(findTestObject('Register/Button_register'))
+
+WebUI.verifyElementText(findTestObject('Register/The password field must be at least 6 characters'), 'The password field must be at least 6 characters.')
 
 WebUI.closeBrowser()
 

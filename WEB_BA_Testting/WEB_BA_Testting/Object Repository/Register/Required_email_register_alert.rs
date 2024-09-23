@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Fault_syntax_email_alert</name>
+   <name>Required_email_register_alert</name>
    <tag></tag>
-   <elementGuidId>17966217-3a5f-4b80-91b0-996f73ff05f3</elementGuidId>
+   <elementGuidId>d631bbd4-961f-4ebb-985d-174179f5aa10</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='login-form']/div/p</value>
+         <value>//form[@id='login-form']/div[2]/p</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>p.text-danger</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>ad8ebbad-bd61-4b6e-9810-7748ab5f0322</webElementGuid>
+      <webElementGuid>f3ba0280-0fd6-4115-af15-93e26d262fcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +31,15 @@
       <name>class</name>
       <type>Main</type>
       <value>text-danger</value>
-      <webElementGuid>add59f25-f330-4594-97b8-9bfd8fcfe25d</webElementGuid>
+      <webElementGuid>fc616309-96ab-4e77-8dde-057eb09bb633</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>The email field must be a valid email address.</value>
-      <webElementGuid>c9e8a38f-91d5-401b-afb3-d1703014a9d1</webElementGuid>
+      <value>Địa chỉ email không được để trống.</value>
+      <webElementGuid>be703799-84c8-4f3a-bf08-aa8511efa742</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +47,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login-form&quot;)/div[@class=&quot;form-group&quot;]/p[@class=&quot;text-danger&quot;]</value>
-      <webElementGuid>a6934c0d-2b9d-4641-a0e5-1b14fb9162ec</webElementGuid>
+      <webElementGuid>25d17fe9-4a81-46bd-b9b9-f06968ef63ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login-form']/div/p</value>
-      <webElementGuid>17e75e5b-2ea1-4c93-bb41-f2622f76e15c</webElementGuid>
+      <value>//form[@id='login-form']/div[2]/p</value>
+      <webElementGuid>0a072be0-9130-4c1e-ad5a-32e6e9abc103</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,15 +63,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/following::p[1]</value>
-      <webElementGuid>4355a16d-3a2d-4793-a18b-815b12b0ebcb</webElementGuid>
+      <webElementGuid>13dc59fa-1609-410c-bd01-0cdd66a8c4cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[2]/following::p[1]</value>
-      <webElementGuid>511ff0ab-5b9b-4ee6-8a82-0a6feec00852</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Họ tên:'])[1]/following::p[2]</value>
+      <webElementGuid>4a4cce1a-f0a0-4bec-aa30-00796fe37530</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,38 +79,38 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật khẩu:'])[1]/preceding::p[1]</value>
-      <webElementGuid>d4c6fd5a-623d-49c1-b8cd-ec7cd40c1608</webElementGuid>
+      <webElementGuid>0b1a76ed-bbd3-43d5-bbcc-6af53a4b2c8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quên mật khẩu?'])[1]/preceding::p[2]</value>
-      <webElementGuid>134ae22b-0b88-4a59-bf37-e86070594590</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận mật khẩu:'])[1]/preceding::p[2]</value>
+      <webElementGuid>ad0854e3-5f45-4665-9b1d-6d879e458255</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='The email field must be a valid email address.']/parent::*</value>
-      <webElementGuid>f79d4f37-9154-464b-aa04-7991948bdf0d</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Địa chỉ email không được để trống.']/parent::*</value>
+      <webElementGuid>2ae09c85-9a62-4fbf-b906-1a91b0b464cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div/p</value>
-      <webElementGuid>d3482384-f3dd-4d49-819a-94b9660ef8f8</webElementGuid>
+      <value>//form/div[2]/p</value>
+      <webElementGuid>f63a9560-6801-468c-826a-1e8cd4385790</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = 'The email field must be a valid email address.' or . = 'The email field must be a valid email address.')]</value>
-      <webElementGuid>2d13bf4d-66f3-48d5-8a08-323089edece0</webElementGuid>
+      <value>//p[(text() = 'Địa chỉ email không được để trống.' or . = 'Địa chỉ email không được để trống.')]</value>
+      <webElementGuid>d6240927-d427-4ff9-978f-9de07c5a3879</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

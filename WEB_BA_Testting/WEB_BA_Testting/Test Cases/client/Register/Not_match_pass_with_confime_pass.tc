@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Not_match_pass_with_confime_pass</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d284a77-5dbc-45dd-b537-b9b80a05113a</testCaseGuid>
+</TestCaseEntity>
