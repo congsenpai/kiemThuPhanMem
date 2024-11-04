@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Fault_syntax_email_login_alert</name>
+   <tag></tag>
+   <elementGuidId>17966217-3a5f-4b80-91b0-996f73ff05f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='login-form']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ad8ebbad-bd61-4b6e-9810-7748ab5f0322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger</value>
+      <webElementGuid>add59f25-f330-4594-97b8-9bfd8fcfe25d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The email field must be a valid email address.</value>
+      <webElementGuid>c9e8a38f-91d5-401b-afb3-d1703014a9d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-form&quot;)/div[@class=&quot;form-group&quot;]/p[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>a6934c0d-2b9d-4641-a0e5-1b14fb9162ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='login-form']/div/p</value>
+      <webElementGuid>17e75e5b-2ea1-4c93-bb41-f2622f76e15c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/following::p[1]</value>
+      <webElementGuid>4355a16d-3a2d-4793-a18b-815b12b0ebcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[2]/following::p[1]</value>
+      <webElementGuid>511ff0ab-5b9b-4ee6-8a82-0a6feec00852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật khẩu:'])[1]/preceding::p[1]</value>
+      <webElementGuid>d4c6fd5a-623d-49c1-b8cd-ec7cd40c1608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quên mật khẩu?'])[1]/preceding::p[2]</value>
+      <webElementGuid>134ae22b-0b88-4a59-bf37-e86070594590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The email field must be a valid email address.']/parent::*</value>
+      <webElementGuid>f79d4f37-9154-464b-aa04-7991948bdf0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/p</value>
+      <webElementGuid>d3482384-f3dd-4d49-819a-94b9660ef8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'The email field must be a valid email address.' or . = 'The email field must be a valid email address.')]</value>
+      <webElementGuid>2d13bf4d-66f3-48d5-8a08-323089edece0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

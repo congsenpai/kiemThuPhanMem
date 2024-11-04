@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>The password field must be at least 6 characters</name>
+   <tag></tag>
+   <elementGuidId>7b8da3c0-6bae-4c0f-bc9d-ee845a40c168</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='login-form']/div[3]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b8574daa-6fef-402a-b9db-a9eca48194ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger</value>
+      <webElementGuid>205611b3-7aff-4d14-b9a1-964d5ef90b18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The password field must be at least 6 characters.</value>
+      <webElementGuid>5179ddb8-048a-459a-8fdd-515c2d9bf14d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-form&quot;)/div[@class=&quot;form-group&quot;]/p[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>46059a0c-73ec-4e48-ae98-df86eb952a92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='login-form']/div[3]/p</value>
+      <webElementGuid>14bb8da8-c81d-48ad-9f9e-4746969b5f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật khẩu:'])[1]/following::p[1]</value>
+      <webElementGuid>b2271e75-3e04-49a2-aa25-65ef4708eba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/following::p[1]</value>
+      <webElementGuid>733ce21a-2803-4ed6-8ea9-5828beb148f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận mật khẩu:'])[1]/preceding::p[1]</value>
+      <webElementGuid>33eedbe7-df22-4cfd-9da0-6ca76f21b6c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[3]/preceding::p[1]</value>
+      <webElementGuid>e87ec54b-bf21-4ad8-ac4c-86a8453afa1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The password field must be at least 6 characters.']/parent::*</value>
+      <webElementGuid>45cbc284-29b3-446f-a950-1f9ea90fb6ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>6871d9ec-b265-494f-840e-62a85c910406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'The password field must be at least 6 characters.' or . = 'The password field must be at least 6 characters.')]</value>
+      <webElementGuid>bc854cd9-4523-45f2-be83-412080e59036</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

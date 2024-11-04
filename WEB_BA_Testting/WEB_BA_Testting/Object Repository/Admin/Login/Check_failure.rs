@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Check_failure</name>
+   <tag></tag>
+   <elementGuidId>37d81b45-36f4-478b-9f12-df3abcdce8c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div/div/div/div/div/div/form/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>48624d49-1de8-459b-96f8-1d35da799b63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger</value>
+      <webElementGuid>3bcd5fa8-a47e-4ff3-806b-2f35b5c1dea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email hoặc mật khẩu không chính xác.</value>
+      <webElementGuid>e697d6c0-6780-42fd-a410-89ef10105153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;position-relative overflow-hidden radial-gradient min-vh-100 d-flex align-items-center justify-content-center&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center w-100&quot;]/div[@class=&quot;row justify-content-center w-100&quot;]/div[@class=&quot;col-md-8 col-lg-6 col-xxl-3&quot;]/div[@class=&quot;card mb-0&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;mb-3&quot;]/p[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>31a88d53-9eba-49d4-8976-8e5a621ea482</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div/div/div/div/div/div/form/div/p</value>
+      <webElementGuid>f3963b4b-9e8d-4b9a-942d-e1cc2c29a1d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::p[1]</value>
+      <webElementGuid>f814bc27-c12e-4c06-80c3-bf21a05c67f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/following::p[2]</value>
+      <webElementGuid>58bfa734-c6c3-4bf7-b873-1b06e06f3a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::p[1]</value>
+      <webElementGuid>9985acb1-68ff-413c-81e7-a44139b81c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[2]/preceding::p[1]</value>
+      <webElementGuid>1e982a62-c60f-4531-bdf2-455870007694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email hoặc mật khẩu không chính xác.']/parent::*</value>
+      <webElementGuid>968af968-a2f3-41b2-b885-249c0bc363bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/p</value>
+      <webElementGuid>19a4234a-6bb2-41e0-b421-a77c8b03534d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Email hoặc mật khẩu không chính xác.' or . = 'Email hoặc mật khẩu không chính xác.')]</value>
+      <webElementGuid>d95651d8-b2b2-44d3-b9f8-4cd7a7103a13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
