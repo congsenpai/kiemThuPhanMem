@@ -31,11 +31,19 @@ WebUI.verifyElementText(findTestObject('Admin/Login/Checking_button'), 'Xin chà
 
 WebUI.click(findTestObject('Admin/Quản lý loại sản phẩm/Chức Năng Tìm Kiếm/Button_Danh mục'))
 
-WebUI.setText(findTestObject('Admin/Quản lý loại sản phẩm/Chức Năng Tìm Kiếm/input_Tìm Kiếm'), 'Măng cụt')
+WebUI.click(findTestObject('Admin/Quản lý loại sản phẩm/Sửa/button_update_out'))
 
-WebUI.click(findTestObject('Admin/Quản lý loại sản phẩm/Chức Năng Tìm Kiếm/button_Tìm Kiếm'))
+WebUI.setText(findTestObject('Admin/Quản lý loại sản phẩm/Sửa/input_update_name'), '')
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý loại sản phẩm/Chức Năng Tìm Kiếm/Check_Tìm kiếm'), 'Măng Cụt')
+WebUI.click(findTestObject('Admin/Quản lý loại sản phẩm/Sửa/button_update_in'))
+
+String actualTitle = WebUI.getUrl()
+WebUI.comment('url' + actualTitle)
+
+// Kiểm tra nếu actualTitle chứa expectedTitle
+String expectedTitle = "http://127.0.0.1:8000/admin/category/edit"
+boolean isContained = actualTitle.contains(expectedTitle)
+
+WebUI.verifyEqual(isContained, true)
 
 WebUI.closeBrowser()
-

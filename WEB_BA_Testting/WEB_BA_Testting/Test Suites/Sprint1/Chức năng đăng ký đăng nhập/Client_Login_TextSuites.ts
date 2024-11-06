@@ -29,14 +29,14 @@
       <guid>0c58c711-ebef-4219-a66d-0c3003541c01</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Chức năng đăng ký đăng nhập/client/Login/Failure_login</testCaseId>
+      <testCaseId>Test Cases/Chức năng đăng ký đăng nhập/client/Login/failure_login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>525f1f05-dc7e-4b42-a8f4-5d12d8541ccf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Chức năng đăng ký đăng nhập/client/Login/Success_login</testCaseId>
+      <testCaseId>Test Cases/Chức năng đăng ký đăng nhập/client/Login/success_login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

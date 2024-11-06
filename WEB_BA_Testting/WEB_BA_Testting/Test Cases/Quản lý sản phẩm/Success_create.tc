@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>success_login</name>
+   <name>Success_create</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>08106ca3-6753-477f-8af8-3e291a9bf4d5</testCaseGuid>
+   <testCaseGuid>57d331cb-1f68-4f2d-b248-e1ebb4b7b159</testCaseGuid>
 </TestCaseEntity>

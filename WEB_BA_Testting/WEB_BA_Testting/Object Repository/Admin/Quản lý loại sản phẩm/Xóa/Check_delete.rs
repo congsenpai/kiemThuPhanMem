@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Check_delete</name>
+   <tag></tag>
+   <elementGuidId>d716d997-83be-4eec-a844-3aa5c6f0058a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fl-message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0de83efd-c7f3-49d3-91fa-b31a6cd7b742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fl-message</value>
+      <webElementGuid>a480861f-f038-42a8-9b72-4a18d554fe5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xóa danh mục thành công.</value>
+      <webElementGuid>ed06e8c5-d93a-4897-b3be-0ffaae6d3b27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fl-dark-mode&quot;]/div[@class=&quot;fl-main-container fl-no-cache&quot;]/div[@class=&quot;fl-flasher fl-success fl-container fl-show&quot;]/div[@class=&quot;fl-content&quot;]/div[2]/span[@class=&quot;fl-message&quot;]</value>
+      <webElementGuid>ca304b09-b456-4d16-9af8-f75cb813cd64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::span[1]</value>
+      <webElementGuid>b4cfa53e-7591-4ff4-8bef-98ed5a4e813b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xóa'])[9]/following::span[1]</value>
+      <webElementGuid>e78e7193-ae80-4bc7-86ee-bbbb11442bcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xóa danh mục thành công.']/parent::*</value>
+      <webElementGuid>d086f566-3852-4b7d-b882-d70e007cd131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>eea5153a-c90a-4fa6-b420-f0ba154ebe26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Xóa danh mục thành công.' or . = 'Xóa danh mục thành công.')]</value>
+      <webElementGuid>2b84fe81-b2f3-4fe9-8e8e-ba50fc848ff9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
