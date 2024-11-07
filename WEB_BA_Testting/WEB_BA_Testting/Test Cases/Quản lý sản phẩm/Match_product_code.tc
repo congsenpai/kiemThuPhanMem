@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Success_delete</name>
+   <name>Match_product_code</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>3a8fa408-3935-48d4-9096-34a04735d9ed</testCaseGuid>
+   <testCaseGuid>c32acbf2-4404-47da-a983-6fbca9d82c24</testCaseGuid>
 </TestCaseEntity>

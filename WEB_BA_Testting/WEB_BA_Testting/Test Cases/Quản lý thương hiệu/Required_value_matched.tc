@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Require value&#xd;
+Matched database data</description>
+   <name>Required_value_matched</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7499cdbe-b418-433f-8301-151da6f01524</testCaseGuid>
+</TestCaseEntity>

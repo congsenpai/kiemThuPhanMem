@@ -41,5 +41,5 @@ WebUI.uploadFile(findTestObject('Admin/Quản lý sản phẩm/input_create_imag
 
 WebUI.click(findTestObject('Admin/Quản lý sản phẩm/button_Save'))
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý sản phẩm/Check_success'), 'Thêm sản phẩm thành công.')
+WebUI.verifyElementText(findTestObject('Admin/Quản lý sản phẩm/p_The name field is required'), 'The name has already been taken.')
 

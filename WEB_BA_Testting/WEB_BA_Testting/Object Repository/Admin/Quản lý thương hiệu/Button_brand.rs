@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_brand</name>
+   <tag></tag>
+   <elementGuidId>0bc66836-a3c4-41f4-9283-60ccf5726c5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='sidebarnav']/li[4]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.sidebar-link.active > span.hide-menu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6e84f987-826a-4055-9551-1f7a9e9f1b6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hide-menu</value>
+      <webElementGuid>fa736f57-a821-4035-9f5d-7b503bb1928c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thương hiệu</value>
+      <webElementGuid>6501f31b-2cf9-4dad-b433-f3d6aca06707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebarnav&quot;)/li[@class=&quot;sidebar-item selected&quot;]/a[@class=&quot;sidebar-link active&quot;]/span[@class=&quot;hide-menu&quot;]</value>
+      <webElementGuid>883585cd-1ae6-40d0-944b-3c9e824b62bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='sidebarnav']/li[4]/a/span[2]</value>
+      <webElementGuid>1e1b177b-54f8-49d3-8db3-9aa106b66b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục'])[1]/following::span[2]</value>
+      <webElementGuid>41c14bcc-6b0b-4e5f-8b88-abd6673dc1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[1]/following::span[4]</value>
+      <webElementGuid>2a3a1788-77c7-4a66-9b7b-e1fe9d54a970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm'])[1]/preceding::span[2]</value>
+      <webElementGuid>0d798348-4515-4ea3-8e04-15a1dc579d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhân viên'])[1]/preceding::span[4]</value>
+      <webElementGuid>04e2ab38-fda4-4832-9666-b44e3cfe8bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thương hiệu']/parent::*</value>
+      <webElementGuid>a26c8abd-7b86-4e3d-82dd-b288430fc5ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span[2]</value>
+      <webElementGuid>408ddd1f-81ad-492f-8192-52f380a46b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Thương hiệu' or . = 'Thương hiệu')]</value>
+      <webElementGuid>bea287e4-01ad-4203-9770-1102d6fed980</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

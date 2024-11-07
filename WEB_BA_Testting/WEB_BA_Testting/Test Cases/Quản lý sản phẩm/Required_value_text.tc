@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Success_delete</name>
+   <name>Required_value_text</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>3a8fa408-3935-48d4-9096-34a04735d9ed</testCaseGuid>
+   <testCaseGuid>c5865d80-a97a-4992-acb6-91e1d948f371</testCaseGuid>
 </TestCaseEntity>

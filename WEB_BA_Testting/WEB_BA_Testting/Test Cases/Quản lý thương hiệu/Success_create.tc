@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Success_delete</name>
+   <name>Success_create</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>3a8fa408-3935-48d4-9096-34a04735d9ed</testCaseGuid>
+   <testCaseGuid>1163f378-dbd7-4886-aec6-d5f91b30d79c</testCaseGuid>
 </TestCaseEntity>

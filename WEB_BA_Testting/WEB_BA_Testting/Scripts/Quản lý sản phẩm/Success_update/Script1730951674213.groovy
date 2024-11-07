@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Admin/Quản lý sản phẩm/button_product'))
 
-WebUI.click(findTestObject('Admin/Quản lý sản phẩm/button_create_out'))
+WebUI.click(findTestObject('Admin/Quản lý sản phẩm/button_update_out'))
 
-WebUI.setText(findTestObject('Admin/Quản lý sản phẩm/input_create_name'), 'TH Truemilk')
+WebUI.setText(findTestObject('Admin/Quản lý sản phẩm/input_create_name'), 'TH Truemilk update')
 
 WebUI.setText(findTestObject('Admin/Quản lý sản phẩm/input_create_price'), '20000')
 
@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Admin/Quản lý sản phẩm/input_create_product
 
 WebUI.setText(findTestObject('Admin/Quản lý sản phẩm/input_create_quantity'), '10')
 
-WebUI.setText(findTestObject('Admin/Quản lý sản phẩm/describe_text'), 'món này cũng khá ngon')
+WebUI.setText(findTestObject('Admin/Quản lý sản phẩm/describe_text'), 'update test')
 
 WebUI.selectOptionByIndex(findTestObject('Admin/Quản lý sản phẩm/select_create_category'), 1, FailureHandling.STOP_ON_FAILURE)
 
@@ -41,5 +41,5 @@ WebUI.uploadFile(findTestObject('Admin/Quản lý sản phẩm/input_create_imag
 
 WebUI.click(findTestObject('Admin/Quản lý sản phẩm/button_Save'))
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý sản phẩm/Check_success'), 'Thêm sản phẩm thành công.')
+WebUI.verifyElementText(findTestObject('Admin/Quản lý sản phẩm/Check_success'), 'Cập nhật sản phẩm thành công.')
 
