@@ -27,13 +27,13 @@ WebUI.setEncryptedText(findTestObject('Admin/Login/input_Password_password'), 'a
 
 WebUI.click(findTestObject('Admin/Login/button_ng nhp'))
 
-WebUI.verifyElementText(findTestObject('Admin/Login/Checking_button'), 'Xin chào Admin, chào mừng quay trở lại.')
+WebUI.verifyElementText(findTestObject('Admin/General/Check_alert_general_toprightScreen'), 'Xin chào Admin, chào mừng quay trở lại.')
 
-WebUI.click(findTestObject('Admin/Quản lý thương hiệu/Button_brand'))
+WebUI.click(findTestObject('Admin/Brand/Button_brand'))
 
 WebUI.comment("Test cancel delete")
 
-WebUI.click(findTestObject('Admin/Quản lý thương hiệu/button_delete_out'))
+WebUI.click(findTestObject('Admin/Brand/button_delete_out'))
 // Chờ alert xuất hiện
 if (WebUI.waitForAlert(5)) {
 	WebUI.comment("Have a alert and success")
@@ -41,7 +41,7 @@ if (WebUI.waitForAlert(5)) {
 } else {
 	WebUI.comment("No alert appeared.")
 }
-WebUI.click(findTestObject('Admin/Quản lý thương hiệu/button_delete_out'))
+WebUI.click(findTestObject('Admin/Brand/button_delete_out'))
 
 WebUI.comment("Test accept delete")
 // Chờ alert xuất hiện
@@ -51,4 +51,4 @@ if (WebUI.waitForAlert(5)) {
 } else {
 	WebUI.comment("No alert appeared.")
 }
-WebUI.verifyElementText(findTestObject('Admin/Login/Checking_button'), 'Xóa dữ liệu thành công.')
+WebUI.verifyElementText(findTestObject('Admin/General/Check_alert_general_toprightScreen'), 'Xóa dữ liệu thành công.')

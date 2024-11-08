@@ -17,29 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Admin/Quản lý sản phẩm/button_product'))
+WebUI.click(findTestObject('Admin/Product/button_product'))
 
-WebUI.click(findTestObject('Admin/Quản lý sản phẩm/button_create_out'))
+WebUI.click(findTestObject('Admin/Product/button_create_out'))
 
-WebUI.setText(findTestObject('Admin/Quản lý sản phẩm/input_create_name'), 'TH Truemilk')
+WebUI.setText(findTestObject('Admin/Product/input_create_name'), 'TH Truemilk')
 
-WebUI.setText(findTestObject('Admin/Quản lý sản phẩm/input_create_price'), '20000')
+WebUI.setText(findTestObject('Admin/Product/input_create_price'), '20000')
 
-WebUI.setText(findTestObject('Admin/Quản lý sản phẩm/input_create_product_code'), 'test')
+WebUI.setText(findTestObject('Admin/Product/input_create_product_code'), 'test')
 
-WebUI.setText(findTestObject('Admin/Quản lý sản phẩm/input_create_quantity'), '10')
+WebUI.setText(findTestObject('Admin/Product/input_create_quantity'), '10')
 
-WebUI.setText(findTestObject('Admin/Quản lý sản phẩm/describe_text'), 'món này cũng khá ngon')
+WebUI.setText(findTestObject('Admin/Product/describe_text'), 'món này cũng khá ngon')
 
-WebUI.selectOptionByIndex(findTestObject('Admin/Quản lý sản phẩm/select_create_category'), 1, FailureHandling.STOP_ON_FAILURE)
+WebUI.selectOptionByIndex(findTestObject('Admin/Product/select_create_category'), 1, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.selectOptionByIndex(findTestObject('Admin/Quản lý sản phẩm/select_create_thng_hiu'), 1, FailureHandling.STOP_ON_FAILURE)
+WebUI.selectOptionByIndex(findTestObject('Admin/Product/select_create_thng_hiu'), 1, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.selectOptionByIndex(findTestObject('Admin/Quản lý sản phẩm/select_create_weigh'), 1, FailureHandling.STOP_ON_FAILURE)
+WebUI.selectOptionByIndex(findTestObject('Admin/Product/select_create_weigh'), 1, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.uploadFile(findTestObject('Admin/Quản lý sản phẩm/input_create_images'), 'D:\\Web-ban-hang-thuc-pham\\storage\\app\\public\\products\\TestImage.png')
+WebUI.uploadFile(findTestObject('Admin/Product/input_create_images'), 'D:\\Web-ban-hang-thuc-pham\\storage\\app\\public\\products\\TestImage.png')
 
-WebUI.click(findTestObject('Admin/Quản lý sản phẩm/button_Save'))
+WebUI.click(findTestObject('Admin/Product/button_Save'))
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý sản phẩm/Check_success'), 'Thêm sản phẩm thành công.')
+WebUI.verifyElementText(findTestObject('Admin/Product/Check_success'), 'Thêm sản phẩm thành công.')
 

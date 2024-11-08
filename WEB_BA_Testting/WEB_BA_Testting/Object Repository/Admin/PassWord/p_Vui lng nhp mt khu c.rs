@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Vui lng nhp mt khu c</name>
+   <tag></tag>
+   <elementGuidId>ea7295a1-59d1-4a5d-804b-9ff3d214efb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div/div/div/div/form/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1671c7be-868f-4ca1-b238-22c440cd42c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger</value>
+      <webElementGuid>351c51ba-0003-4737-b99b-a6bd754f665e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vui lòng nhập mật khẩu cũ.</value>
+      <webElementGuid>475fbe8d-637d-4b0b-9a1e-9d2ee948fc91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;mb-3&quot;]/p[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>44363816-0e58-4ad6-90bb-7dad6868ad2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div/div/div/div/form/div/p</value>
+      <webElementGuid>bec63823-27ad-4517-82c6-c08693ee1538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật khẩu cũ'])[1]/following::p[1]</value>
+      <webElementGuid>4405f4c6-eb5e-4c9c-a4fc-4133106ffd1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đổi mật khẩu'])[2]/following::p[1]</value>
+      <webElementGuid>0abe2390-f0bf-429c-8204-4a654cd3b03d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật khẩu mới'])[1]/preceding::p[1]</value>
+      <webElementGuid>1bee3810-f587-422e-8b69-04f9ff799784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhập lại mật khẩu'])[1]/preceding::p[2]</value>
+      <webElementGuid>9fca16b8-6afe-4607-b3f0-6b72d0b87604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vui lòng nhập mật khẩu cũ.']/parent::*</value>
+      <webElementGuid>ce5fc54c-5c75-4f7c-818d-a03dafdd583a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>1d267352-d9b8-4a11-ad53-2c0771f8516d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Vui lòng nhập mật khẩu cũ.' or . = 'Vui lòng nhập mật khẩu cũ.')]</value>
+      <webElementGuid>20e2ea71-631b-469c-b46e-65f44dc4e13b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

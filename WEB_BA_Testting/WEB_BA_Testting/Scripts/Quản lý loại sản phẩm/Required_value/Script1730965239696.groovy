@@ -17,13 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Admin/Quản lý loại sản phẩm/Chức Năng Tìm Kiếm/Button_Danh mục'))
+WebUI.click(findTestObject('Admin/Category/Chức Năng Tìm Kiếm/Button_Danh mục'))
 
-WebUI.click(findTestObject('Admin/Quản lý loại sản phẩm/Sửa/button_update_out'))
+WebUI.click(findTestObject('Admin/Category/Sửa/button_update_out'))
 
-WebUI.setText(findTestObject('Admin/Quản lý loại sản phẩm/Sửa/input_update_name'), '')
+WebUI.setText(findTestObject('Admin/Category/Sửa/input_update_name'), '')
 
-WebUI.click(findTestObject('Admin/Quản lý loại sản phẩm/Sửa/button_update_in'))
+WebUI.click(findTestObject('Admin/Category/Sửa/button_update_in'))
 
 String actualTitle = WebUI.getUrl()
 

@@ -27,13 +27,13 @@ WebUI.setEncryptedText(findTestObject('Admin/Login/input_Password_password'), 'a
 
 WebUI.click(findTestObject('Admin/Login/button_ng nhp'))
 
-WebUI.verifyElementText(findTestObject('Admin/Login/Checking_button'), 'Xin chào Admin, chào mừng quay trở lại.')
+WebUI.verifyElementText(findTestObject('Admin/General/Check_alert_general_toprightScreen'), 'Xin chào Admin, chào mừng quay trở lại.')
 
-WebUI.click(findTestObject('Admin/Quản lý thương hiệu/Button_brand'))
+WebUI.click(findTestObject('Admin/Brand/Button_brand'))
 
-WebUI.click(findTestObject('Admin/Quản lý thương hiệu/Button_update_out'))
+WebUI.click(findTestObject('Admin/Brand/Button_update_out'))
 
-WebUI.setText(findTestObject('Admin/Quản lý thương hiệu/input_brands_name'), 'TH TrueMilk')
+WebUI.setText(findTestObject('Admin/Brand/input_brands_name'), 'TH TrueMilk')
 
-WebUI.click(findTestObject('Admin/Quản lý thương hiệu/button_Save'))
+WebUI.click(findTestObject('Admin/Brand/button_Save'))
 

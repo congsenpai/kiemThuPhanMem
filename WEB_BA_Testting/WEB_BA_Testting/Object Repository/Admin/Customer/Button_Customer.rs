@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_Customer</name>
+   <tag></tag>
+   <elementGuidId>38edae4e-86f0-4747-b3fb-a6a2ab4685b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='sidebarnav']/li[8]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.sidebar-link.active > span.hide-menu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0b862ac0-c843-4c67-be6a-04d6d028bd8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hide-menu</value>
+      <webElementGuid>0c69de56-3c0f-49ad-bea6-a7d5e3e835d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Khách hàng</value>
+      <webElementGuid>a5c36e71-ac7a-4497-8b0f-c2b2d03dd79c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebarnav&quot;)/li[@class=&quot;sidebar-item selected&quot;]/a[@class=&quot;sidebar-link active&quot;]/span[@class=&quot;hide-menu&quot;]</value>
+      <webElementGuid>2dea11af-b66e-456a-b353-2221b2528ae1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='sidebarnav']/li[8]/a/span[2]</value>
+      <webElementGuid>40ba365f-bf98-458c-bb7c-08547b939912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đơn hàng'])[1]/following::span[2]</value>
+      <webElementGuid>d0c0a770-73de-4bf3-8a80-9f47a9d5f929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhân viên'])[1]/following::span[4]</value>
+      <webElementGuid>2c593071-c7a5-4bdb-884e-8abdab913e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài khoản'])[1]/preceding::span[1]</value>
+      <webElementGuid>863c85dd-6391-4867-994d-3eb9917b6493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đổi mật khẩu'])[1]/preceding::span[3]</value>
+      <webElementGuid>abd623e6-4fb4-493e-9dc9-c9e2be401ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Khách hàng']/parent::*</value>
+      <webElementGuid>37283b1e-06e6-4db8-949a-a8cc28e8826e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a/span[2]</value>
+      <webElementGuid>dcfab2c8-0098-4c98-8ec1-0ae5713cc48d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Khách hàng' or . = 'Khách hàng')]</value>
+      <webElementGuid>00e4a9a2-caf4-4897-a7a9-356f8e0f3b8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

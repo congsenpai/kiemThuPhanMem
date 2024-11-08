@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Check_state_account</name>
+   <tag></tag>
+   <elementGuidId>29909aa4-04cd-4e85-99e2-52ee0fbe9cee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div/div/div/div/div/div[2]/table/tbody/tr/td[6]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.fw-semibold.mb-0.text-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d421b9eb-83ac-47b8-bc7b-45816c2cc01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-semibold mb-0 text-success</value>
+      <webElementGuid>e53d998e-d28c-4942-ba4e-4e0ef72680ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hoạt động</value>
+      <webElementGuid>7809d663-a134-432e-ac5d-e87c9e15a937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card w-100&quot;]/div[@class=&quot;card-body p-4&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table text-nowrap mb-0 align-middle&quot;]/tbody[1]/tr[1]/td[@class=&quot;border-bottom-0 text-center&quot;]/p[@class=&quot;fw-semibold mb-0 text-success&quot;]</value>
+      <webElementGuid>54c67c84-7b01-4338-8e57-e31c346c6012</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div/div/div/div/div/div[2]/table/tbody/tr/td[6]/p</value>
+      <webElementGuid>aaaebd00-225c-443e-9003-b494878defa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#40'])[1]/following::p[5]</value>
+      <webElementGuid>63aac567-3f7c-4a57-9721-74601061f916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hành động'])[1]/following::p[5]</value>
+      <webElementGuid>83d0144a-d5ec-4493-b421-ebbbd90f55c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khóa'])[1]/preceding::p[1]</value>
+      <webElementGuid>b69dce33-5b87-48d7-86bc-02fe88bf02c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xóa'])[1]/preceding::p[1]</value>
+      <webElementGuid>00c9150f-5f31-41eb-9d0e-c419ad3c2fbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hoạt động']/parent::*</value>
+      <webElementGuid>1273097d-e5c7-4ba3-83a7-a9e81294708d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/p</value>
+      <webElementGuid>f7a91863-8190-409a-8e68-16bc5f63059f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Hoạt động' or . = 'Hoạt động')]</value>
+      <webElementGuid>b1500e3b-5272-494f-9ada-8be6ae01ffa7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -29,7 +29,7 @@
       <guid>de4a3945-302d-4284-96ba-ea80adcf7e05</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Quản lý loại sản phẩm/Success_add</testCaseId>
+      <testCaseId>Test Cases/Quản lý loại sản phẩm/Success_create</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

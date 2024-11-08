@@ -27,13 +27,13 @@ WebUI.setEncryptedText(findTestObject('Admin/Login/input_Password_password'), 'a
 
 WebUI.click(findTestObject('Admin/Login/button_ng nhp'))
 
-WebUI.verifyElementText(findTestObject('Admin/Login/Checking_button'), 'Xin chào Admin, chào mừng quay trở lại.')
+WebUI.verifyElementText(findTestObject('Admin/General/Check_alert_general_toprightScreen'), 'Xin chào Admin, chào mừng quay trở lại.')
 
-WebUI.click(findTestObject('Admin/Quản lý loại sản phẩm/Chức Năng Tìm Kiếm/Button_Danh mục'))
+WebUI.click(findTestObject('Admin/Category/Chức Năng Tìm Kiếm/Button_Danh mục'))
 
-WebUI.setText(findTestObject('Admin/General/input_Tìm Kiếm'), 'Măng cụt')
+WebUI.setText(findTestObject('Admin/General/input_find'), 'Măng cụt')
 
-WebUI.click(findTestObject('Admin/General/button_Tìm Kiếm'))
+WebUI.click(findTestObject('Admin/General/button_find'))
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý loại sản phẩm/Chức Năng Tìm Kiếm/Check_Tìm kiếm'), 'Măng Cụt')
+WebUI.verifyElementText(findTestObject('Admin/Category/Chức Năng Tìm Kiếm/Check_Tìm kiếm'), 'Măng Cụt')
 

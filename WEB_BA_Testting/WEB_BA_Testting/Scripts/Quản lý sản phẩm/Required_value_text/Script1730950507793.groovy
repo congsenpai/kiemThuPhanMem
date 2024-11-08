@@ -27,25 +27,25 @@ WebUI.setEncryptedText(findTestObject('Admin/Login/input_Password_password'), 'a
 
 WebUI.click(findTestObject('Admin/Login/button_ng nhp'))
 
-WebUI.verifyElementText(findTestObject('Admin/Login/Checking_button'), 'Xin chào Admin, chào mừng quay trở lại.')
+WebUI.verifyElementText(findTestObject('Admin/General/Check_alert_general_toprightScreen'), 'Xin chào Admin, chào mừng quay trở lại.')
 
-WebUI.click(findTestObject('Admin/Quản lý sản phẩm/button_product'))
+WebUI.click(findTestObject('Admin/Product/button_product'))
 
-WebUI.click(findTestObject('Admin/Quản lý sản phẩm/button_create_out'))
+WebUI.click(findTestObject('Admin/Product/button_create_out'))
 
-WebUI.click(findTestObject('Admin/Quản lý sản phẩm/button_Save'))
+WebUI.click(findTestObject('Admin/Product/button_Save'))
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý sản phẩm/p_The description field is required'), 'The description field is required.')
+WebUI.verifyElementText(findTestObject('Admin/Product/p_The description field is required'), 'The description field is required.')
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý sản phẩm/p_The images field is required'), 'The images field is required.')
+WebUI.verifyElementText(findTestObject('Admin/Product/p_The images field is required'), 'The images field is required.')
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý sản phẩm/p_The name field is required'), 'The name field is required.')
+WebUI.verifyElementText(findTestObject('Admin/Product/p_The name field is required'), 'The name field is required.')
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý sản phẩm/p_The price field is required'), 'The price field is required.')
+WebUI.verifyElementText(findTestObject('Admin/Product/p_The price field is required'), 'The price field is required.')
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý sản phẩm/p_The product code field is required'), 'The product code field is required.')
+WebUI.verifyElementText(findTestObject('Admin/Product/p_The product code field is required'), 'The product code field is required.')
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý sản phẩm/p_The quantity field is required'), 'The quantity field is required.')
+WebUI.verifyElementText(findTestObject('Admin/Product/p_The quantity field is required'), 'The quantity field is required.')
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý sản phẩm/p_The weight field is required'), 'The weight field is required.')
+WebUI.verifyElementText(findTestObject('Admin/Product/p_The weight field is required'), 'The weight field is required.')
 

@@ -17,17 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Admin/Quản lý loại sản phẩm/Chức Năng Tìm Kiếm/Button_Danh mục'))
+WebUI.click(findTestObject('Admin/Category/Chức Năng Tìm Kiếm/Button_Danh mục'))
 
-WebUI.click(findTestObject('Admin/Quản lý loại sản phẩm/Sửa/button_update_out'))
+WebUI.click(findTestObject('Admin/Category/Sửa/button_update_out'))
 
-WebUI.setText(findTestObject('Admin/Quản lý loại sản phẩm/Sửa/input_update_name'), 'THTrueMilkS')
+WebUI.setText(findTestObject('Admin/Category/Sửa/input_update_name'), 'THTrueMilkS')
 
-WebUI.uploadFile(findTestObject('Admin/Quản lý loại sản phẩm/Sửa/input_update_image'), 'D:\\Web-ban-hang-thuc-pham\\storage\\app\\public\\products\\TestImage.jpg')
+WebUI.uploadFile(findTestObject('Admin/Category/Sửa/input_update_image'), 'D:\\Web-ban-hang-thuc-pham\\storage\\app\\public\\products\\TestImage.jpg')
 
-WebUI.click(findTestObject('Admin/Quản lý loại sản phẩm/Sửa/button_update_in'))
+WebUI.click(findTestObject('Admin/Category/Sửa/button_update_in'))
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý loại sản phẩm/Sửa/check_update_name'), 'THTrueMilkS')
+WebUI.verifyElementText(findTestObject('Admin/Category/Sửa/check_update_name'), 'THTrueMilkS')
 
 WebUI.verifyImagePresent(findTestObject(null))
 

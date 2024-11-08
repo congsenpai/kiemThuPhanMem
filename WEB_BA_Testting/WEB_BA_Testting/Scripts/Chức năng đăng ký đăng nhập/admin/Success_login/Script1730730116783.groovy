@@ -27,7 +27,7 @@ WebUI.setEncryptedText(findTestObject('Admin/Login/input_Password_password'), 'a
 
 WebUI.click(findTestObject('Admin/Login/button_ng nhp'))
 
-WebUI.verifyElementText(findTestObject('Admin/Login/Checking_button'), 'Xin chào Admin, chào mừng quay trở lại.')
+WebUI.verifyElementText(findTestObject('Admin/General/Check_alert_general_toprightScreen'), 'Xin chào Admin, chào mừng quay trở lại.')
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_unlock_acount</name>
+   <tag></tag>
+   <elementGuidId>9486e2fd-87d3-4f5d-895e-a70cbf2e7b63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;return confirm('Bạn có chắc muốn mở khóa tài khoản này không?')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-outline-success.m-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3599c6ec-31eb-4b59-a04a-a4c82fff87f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/admin/user/40</value>
+      <webElementGuid>5219e046-e2ce-4965-bb49-e7c30f310528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return confirm('Bạn có chắc muốn mở khóa tài khoản này không?')</value>
+      <webElementGuid>80c7787b-8100-45c1-8630-2d601b707cb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-success m-1</value>
+      <webElementGuid>7480b97b-3078-4648-bfe9-f1157d75e0f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mở khóa</value>
+      <webElementGuid>9e61e9da-b244-4281-baaa-132a2b50ebbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card w-100&quot;]/div[@class=&quot;card-body p-4&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table text-nowrap mb-0 align-middle&quot;]/tbody[1]/tr[1]/td[@class=&quot;border-bottom-0 text-end&quot;]/a[@class=&quot;btn btn-outline-success m-1&quot;]</value>
+      <webElementGuid>398cf96f-2609-4609-af1a-a26f645cfe8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;return confirm('Bạn có chắc muốn mở khóa tài khoản này không?')&quot;]</value>
+      <webElementGuid>e125be57-fc9c-48d7-a4a7-e6b479de10cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div/div/div/div/div/div[2]/table/tbody/tr/td[7]/a</value>
+      <webElementGuid>1ba03e33-3f06-40fa-82eb-317740ab0709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mở khóa')]</value>
+      <webElementGuid>c4989bfd-767f-4ce2-a16c-5a1e216088a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#40'])[1]/following::a[1]</value>
+      <webElementGuid>8039b495-073a-432c-92ce-047f22187e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hành động'])[1]/following::a[1]</value>
+      <webElementGuid>b7f5ef40-b093-4980-9aaa-06b776894198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xóa'])[1]/preceding::a[1]</value>
+      <webElementGuid>6aaccae0-bed7-4cc5-9e95-466699fcad2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#39'])[1]/preceding::a[2]</value>
+      <webElementGuid>145ea616-769d-41ac-89ed-68a52c17d47e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mở khóa']/parent::*</value>
+      <webElementGuid>ab49804c-7bdf-40e9-bb14-554a90e6a0dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://127.0.0.1:8000/admin/user/40']</value>
+      <webElementGuid>2a5c1673-b6c4-4b4a-a1b5-b59322347c78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/a</value>
+      <webElementGuid>b6377fd8-9248-463b-8d6b-6e6a68f7ed9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://127.0.0.1:8000/admin/user/40' and (text() = 'Mở khóa' or . = 'Mở khóa')]</value>
+      <webElementGuid>f32cb68c-36a2-49be-a5a3-6b529743d23d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

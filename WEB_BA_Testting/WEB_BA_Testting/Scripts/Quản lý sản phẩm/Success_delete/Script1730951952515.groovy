@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Admin/Quản lý sản phẩm/button_product'))
+WebUI.click(findTestObject('Admin/Product/button_product'))
 
-WebUI.click(findTestObject('Admin/Quản lý sản phẩm/button_delete_out'))
+WebUI.click(findTestObject('Admin/Product/button_delete_out'))
 
 if (WebUI.waitForAlert(5)) {
 	WebUI.comment("Have a alert")
@@ -28,7 +28,7 @@ if (WebUI.waitForAlert(5)) {
 	WebUI.comment("No alert appeared.")
 }
 
-WebUI.verifyElementText(findTestObject('Admin/Quản lý sản phẩm/Check_success'), 'Xóa sản phẩm thành công.')
+WebUI.verifyElementText(findTestObject('Admin/Product/Check_success'), 'Xóa sản phẩm thành công.')
 
 WebUI.closeBrowser()
 

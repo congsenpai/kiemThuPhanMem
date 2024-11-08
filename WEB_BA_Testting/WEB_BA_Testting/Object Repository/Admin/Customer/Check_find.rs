@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Check_find</name>
+   <tag></tag>
+   <elementGuidId>f611e6a9-a004-43a9-b7f3-0b6a210ace54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div/div/div/div/div/div[2]/table/tbody/tr/td[3]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.border-bottom-0.text-center > p.fw-semibold.mb-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1dbe123c-3fab-4778-a0c6-e8f9584cb80a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-semibold mb-0</value>
+      <webElementGuid>f3c3cf1c-916f-4aa7-8c55-738efaaf8dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>vanson21102003@gmail.com</value>
+      <webElementGuid>9277ac15-3268-47e7-a607-3ad6fc70b5ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card w-100&quot;]/div[@class=&quot;card-body p-4&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table text-nowrap mb-0 align-middle&quot;]/tbody[1]/tr[1]/td[@class=&quot;border-bottom-0 text-center&quot;]/p[@class=&quot;fw-semibold mb-0&quot;]</value>
+      <webElementGuid>581d6997-60ef-4e46-94dd-7c8ff9b54750</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div/div/div/div/div/div[2]/table/tbody/tr/td[3]/p</value>
+      <webElementGuid>d8840e77-c2bf-4bb3-aaff-ea9531db3dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#40'])[1]/following::p[2]</value>
+      <webElementGuid>3e32f2ba-9ba9-4df3-ad2f-815e740e3cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hành động'])[1]/following::p[2]</value>
+      <webElementGuid>633b6c1e-efde-49d1-b074-7ce8c8ac8857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khóa'])[1]/preceding::p[4]</value>
+      <webElementGuid>c278d732-bde5-4061-a338-3e1b5927acb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xóa'])[1]/preceding::p[4]</value>
+      <webElementGuid>8c8fd267-a0bd-44a4-8516-e55b5c889818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='vanson21102003@gmail.com']/parent::*</value>
+      <webElementGuid>8bb5ef5d-0f90-44cf-a378-40a59d2eba84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/p</value>
+      <webElementGuid>91f674dc-76f9-4eeb-9579-571febee0803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'vanson21102003@gmail.com' or . = 'vanson21102003@gmail.com')]</value>
+      <webElementGuid>0e5aef1e-ed98-486e-8ed7-f1aa60e5d994</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
