@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_Cancel</name>
+   <tag></tag>
+   <elementGuidId>c373896e-94c9-48ce-a208-1c94104e72d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.badge.bg-dark.rounded-3.fw-semibold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[7]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>12048b54-5c4f-4a88-994d-355d083c3e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge bg-dark rounded-3 fw-semibold</value>
+      <webElementGuid>ccde0926-4cdd-4248-9cd9-9c11533d9a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hủy đơn</value>
+      <webElementGuid>85fc4e51-8383-465d-b523-20754b3c7e00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card w-100&quot;]/div[@class=&quot;card-body p-4&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table text-nowrap mb-0 align-middle&quot;]/tbody[1]/tr[2]/td[@class=&quot;border-bottom-0 text-center&quot;]/span[@class=&quot;badge bg-dark rounded-3 fw-semibold&quot;]</value>
+      <webElementGuid>24e115ab-85af-464c-90e5-942915553d37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[7]/span</value>
+      <webElementGuid>91f35982-7ef6-46af-9e5b-7df0e4aa976a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#77'])[1]/following::span[1]</value>
+      <webElementGuid>97c9713a-7b60-4852-9e7b-e39cc10f195d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chi tiết'])[1]/following::span[1]</value>
+      <webElementGuid>4e4d1f8c-d428-4b39-a374-7b01a6f40f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chi tiết'])[2]/preceding::span[1]</value>
+      <webElementGuid>b8f8f71f-9ccc-44ce-838a-624b10c129f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#76'])[1]/preceding::span[1]</value>
+      <webElementGuid>b1b15554-496b-46dd-b8bc-48a5743e9bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hủy đơn']/parent::*</value>
+      <webElementGuid>bc4e46b1-1101-4321-8848-c608adc64f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[7]/span</value>
+      <webElementGuid>6ca89397-7153-444f-a011-58568fcc0d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hủy đơn' or . = 'Hủy đơn')]</value>
+      <webElementGuid>23179e2e-8b85-4d2f-8fcf-0714f64cb681</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

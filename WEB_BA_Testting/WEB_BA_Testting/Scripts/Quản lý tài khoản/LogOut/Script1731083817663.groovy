@@ -27,7 +27,7 @@ WebUI.setText(findTestObject('Admin/Login/input_Email_email'), 'bao@gmail.com')
 WebUI.setEncryptedText(findTestObject('Admin/Login/input_Password_password'), 'aeHFOx8jV/A=')
 
 // Nhấn nút Đăng nhập
-WebUI.click(findTestObject('Admin/Login/button_ng nhp'))
+WebUI.click(findTestObject('Admin/Login/button_login'))
 
 // Xác minh thông báo chào mừng
 WebUI.verifyElementText(findTestObject('Admin/General/Check_alert_general_toprightScreen'), 'Xin chào Admin, chào mừng quay trở lại.')

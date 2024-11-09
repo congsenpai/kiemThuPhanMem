@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Check_state</name>
+   <tag></tag>
+   <elementGuidId>69232528-6fde-42e7-b61d-a986f0293908</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.badge.bg-warning.rounded-3.fw-semibold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div/div/div/div/div/div[2]/table/tbody/tr[3]/td[7]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>56e62e6e-2bb4-4bac-aea7-8aba7af808b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge bg-warning rounded-3 fw-semibold</value>
+      <webElementGuid>a626de5d-82bb-4dea-8040-1cc2646a0189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chờ xác nhận</value>
+      <webElementGuid>6abf8f6e-448e-4b87-b4b0-ff45d3c4e191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;body-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card w-100&quot;]/div[@class=&quot;card-body p-4&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table text-nowrap mb-0 align-middle&quot;]/tbody[1]/tr[3]/td[@class=&quot;border-bottom-0 text-center&quot;]/span[@class=&quot;badge bg-warning rounded-3 fw-semibold&quot;]</value>
+      <webElementGuid>570b808c-32db-4f36-ba43-a187893c1fcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div/div/div/div/div/div[2]/table/tbody/tr[3]/td[7]/span</value>
+      <webElementGuid>d43b3b33-f20f-497a-84c9-aaaaa5543d33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#76'])[1]/following::span[1]</value>
+      <webElementGuid>11e0be02-c406-4484-80fb-c71c8e64911c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chi tiết'])[2]/following::span[1]</value>
+      <webElementGuid>b70464b4-1151-4d66-bd2a-d64119fbe725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận'])[1]/preceding::span[1]</value>
+      <webElementGuid>22d3c286-bbea-4835-91a7-aa2e6c292cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chi tiết'])[3]/preceding::span[1]</value>
+      <webElementGuid>08baffe1-9ada-4575-9443-6d944a72b6f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chờ xác nhận']/parent::*</value>
+      <webElementGuid>cafcb11b-72bf-4d51-a167-a421fee5b16b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[7]/span</value>
+      <webElementGuid>1369edda-0299-4d2f-b75d-d25ce3dc7728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Chờ xác nhận' or . = 'Chờ xác nhận')]</value>
+      <webElementGuid>fc1b9b24-60ff-4de7-a4c2-60d7ac2ee08c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -25,7 +25,7 @@ WebUI.setText(findTestObject('Admin/Login/input_Email_email'), 'bao22@gmail.com'
 
 WebUI.setEncryptedText(findTestObject('Admin/Login/input_Password_password'), 'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Admin/Login/button_ng nhp'))
+WebUI.click(findTestObject('Admin/Login/button_login'))
 
 WebUI.verifyElementText(findTestObject('Admin/Login/Check_failure'), 'Email hoặc mật khẩu không chính xác.')
 

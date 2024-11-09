@@ -29,11 +29,11 @@ WebUI.click(findTestObject('Admin/Login/button_login'))
 
 WebUI.verifyElementText(findTestObject('Admin/General/Check_alert_general_toprightScreen'), 'Xin chào Admin, chào mừng quay trở lại.')
 
-WebUI.click(findTestObject('Admin/Brand/Button_brand'))
+WebUI.click(findTestObject('Page_Klever Fruit - Trang qun tr/Button_Order'))
 
-WebUI.setText(findTestObject('Admin/General/input_find'), 'Việt Nam')
+WebUI.selectOptionByIndex(findTestObject('Page_Klever Fruit - Trang qun tr/select_OrderState'), 1)
 
-WebUI.click(findTestObject('Admin/General/button_find'))
+String check = WebUI.getText(findTestObject('Page_Klever Fruit - Trang qun tr/span_check_selected'))
 
-WebUI.verifyElementText(findTestObject('Admin/Brand/Check_find'), 'Việt Nam')
+WebUI.verifyEqual(check, 'Hủy đơn')
 

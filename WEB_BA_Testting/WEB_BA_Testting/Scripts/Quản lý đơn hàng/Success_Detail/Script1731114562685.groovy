@@ -29,11 +29,12 @@ WebUI.click(findTestObject('Admin/Login/button_login'))
 
 WebUI.verifyElementText(findTestObject('Admin/General/Check_alert_general_toprightScreen'), 'Xin chào Admin, chào mừng quay trở lại.')
 
-WebUI.click(findTestObject('Admin/Brand/Button_brand'))
+WebUI.click(findTestObject('Page_Klever Fruit - Trang qun tr/Button_Order'))
 
-WebUI.setText(findTestObject('Admin/General/input_find'), 'Việt Nam')
+WebUI.click(findTestObject('Page_Klever Fruit - Trang qun tr/Button_detail'))
 
-WebUI.click(findTestObject('Admin/General/button_find'))
+String currentUrl = WebUI.getUrl();
+String check = 'http://127.0.0.1:8000/admin/order/show/78'
 
-WebUI.verifyElementText(findTestObject('Admin/Brand/Check_find'), 'Việt Nam')
+WebUI.verifyEqual(check, currentUrl) 
 
