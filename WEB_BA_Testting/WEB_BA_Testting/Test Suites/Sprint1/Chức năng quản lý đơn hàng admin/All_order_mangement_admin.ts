@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>AllTest_customer</name>
+   <name>All_order_mangement_admin</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,26 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>f011c436-0ae6-415f-9a5e-b9d69303ed06</testSuiteGuid>
+   <testSuiteGuid>fcecf47b-d07b-40df-a117-b7a0e591f031</testSuiteGuid>
    <testCaseLink>
-      <guid>92f15f5e-53fc-4574-962b-bcb154cf7eca</guid>
+      <guid>e2127876-2fe6-467b-b3fd-b5482e70a769</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Sprint1/Quản lý khách hàng/Success_Find</testCaseId>
+      <testCaseId>Test Cases/Sprint1/Quản lý đơn hàng/Selected_state_orders</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>6412097a-79bb-4d6d-b65c-9dcb523d9360</guid>
+      <guid>8ade06d7-8779-4dd3-82b1-2c9067738120</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Sprint1/Quản lý khách hàng/Check_state_account</testCaseId>
+      <testCaseId>Test Cases/Sprint1/Quản lý đơn hàng/Success_Detail</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b2c5840f-297f-4896-8f00-ba4356075454</guid>
+      <guid>6b57c6b2-a791-4341-8127-45911baa47d7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Sprint1/Quản lý khách hàng/Success_delete</testCaseId>
+      <testCaseId>Test Cases/Sprint1/Quản lý đơn hàng/Success_find</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

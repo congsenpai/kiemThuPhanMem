@@ -15,28 +15,28 @@
       <guid>4025c547-9560-4732-b5bb-e60cc3b50ac7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Quản lý nhân viên/Success_find</testCaseId>
+      <testCaseId>Test Cases/Sprint1/Quản lý nhân viên/Success_find</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>e731d059-c638-4eaa-9f20-678dd23151e0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Quản lý nhân viên/Required_value</testCaseId>
+      <testCaseId>Test Cases/Sprint1/Quản lý nhân viên/Required_value</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>c34a9a04-8f93-4324-ae03-3a956c738ed8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Quản lý nhân viên/Success_create</testCaseId>
+      <testCaseId>Test Cases/Sprint1/Quản lý nhân viên/Success_create</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>24ce7124-9109-41a8-9d51-c178400b6e13</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Quản lý nhân viên/Success_delete</testCaseId>
+      <testCaseId>Test Cases/Sprint1/Quản lý nhân viên/Success_delete</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

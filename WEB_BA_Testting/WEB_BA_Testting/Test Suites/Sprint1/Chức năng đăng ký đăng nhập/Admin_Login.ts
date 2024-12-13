@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>AllTest_customer</name>
+   <name>Admin_Login</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>f011c436-0ae6-415f-9a5e-b9d69303ed06</testSuiteGuid>
+   <testSuiteGuid>045e2d23-70e8-4961-b4c5-958b6c80b9c8</testSuiteGuid>
    <testCaseLink>
-      <guid>92f15f5e-53fc-4574-962b-bcb154cf7eca</guid>
+      <guid>001bf474-b8cb-40b0-beb3-d273264a829f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Sprint1/Quản lý khách hàng/Success_Find</testCaseId>
+      <testCaseId>Test Cases/Sprint1/Chức năng đăng ký đăng nhập/admin/Failure_login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>6412097a-79bb-4d6d-b65c-9dcb523d9360</guid>
+      <guid>a1fd6e65-befe-4cee-9984-c8e0f1a5b277</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Sprint1/Quản lý khách hàng/Check_state_account</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>b2c5840f-297f-4896-8f00-ba4356075454</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Sprint1/Quản lý khách hàng/Success_delete</testCaseId>
+      <testCaseId>Test Cases/Sprint1/Chức năng đăng ký đăng nhập/admin/Success_login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
