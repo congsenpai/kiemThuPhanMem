@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>check_Error</name>
+   <tag></tag>
+   <elementGuidId>b9c140d0-8210-487d-839d-edc1bc15b0b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong.fl-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Share:'])[1]/following::strong[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>3e7e5475-d5f3-4276-b682-9c7aad6d2202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fl-title</value>
+      <webElementGuid>299ff7c5-40d6-4aab-aafb-639c050ddb30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Error</value>
+      <webElementGuid>c658f8ee-b052-40a8-96a3-a21b635f6a34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[@class=&quot;biolife-body fl-dark-mode&quot;]/div[@class=&quot;fl-main-container fl-no-cache&quot;]/div[@class=&quot;fl-flasher fl-error fl-container fl-show&quot;]/div[@class=&quot;fl-content&quot;]/div[2]/strong[@class=&quot;fl-title&quot;]</value>
+      <webElementGuid>d3a7f82c-38de-4bd4-b123-f341fc967409</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share:'])[1]/following::strong[1]</value>
+      <webElementGuid>c4539b6b-28e6-4bb2-b963-2b9faad439cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SKU: N/A'])[1]/following::strong[1]</value>
+      <webElementGuid>7d3ca90e-215a-4774-bdeb-4b53cab6b709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Không tìm thấy đơn hàng phù hợp.'])[1]/preceding::strong[1]</value>
+      <webElementGuid>131aa93c-59a7-4de9-b222-68b8d1e53da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Error']/parent::*</value>
+      <webElementGuid>abfd99dc-49a8-4775-ad1e-ff35435c808e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>82ac5a2d-210b-4700-9806-a3e47403ee85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Error' or . = 'Error')]</value>
+      <webElementGuid>1d3b8ba8-0296-4936-ab6c-15ae97476d85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

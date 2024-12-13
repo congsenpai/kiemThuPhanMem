@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_order_of_client_not_result</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a0df6ce-acae-41b9-8a36-ec32b2f76693</testCaseGuid>
+</TestCaseEntity>

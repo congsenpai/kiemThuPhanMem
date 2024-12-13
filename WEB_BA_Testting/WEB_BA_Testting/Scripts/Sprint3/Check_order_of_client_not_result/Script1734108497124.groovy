@@ -17,27 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('http://127.0.0.1:8000/admin/login')
+WebUI.openBrowser('http://127.0.0.1:8000')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Admin/Login/input_Email_email'), 'bao@gmail.com')
+WebUI.click(findTestObject('Client/Order_management/Page_Biolife - Organic Food/a_check_order'))
 
-WebUI.setEncryptedText(findTestObject('Admin/Login/input_Password_password'), 'aeHFOx8jV/A=')
+WebUI.click(findTestObject('Client/Order_management/Page_Biolife - Organic Food/button_Phone_Email'))
 
-WebUI.click(findTestObject('Admin/Login/button_login'))
+WebUI.setText(findTestObject('Client/Order_management/Page_Biolife - Organic Food/input_Email'), 'gbao2893@gmail.com')
 
-WebUI.verifyElementText(findTestObject('Admin/Dashboard/DashBoardElement/Doanh so ban hang'), 'Doanh số bán hàng')
+WebUI.setText(findTestObject('Client/Order_management/Page_Biolife - Organic Food/input_Phone'), '0888379199')
 
-WebUI.verifyElementText(findTestObject('Admin/Dashboard/DashBoardElement/Don hang gan day'), 'Đơn hàng gần đây')
+WebUI.click(findTestObject('Client/Order_management/Page_Biolife - Organic Food/button_Check'))
 
-WebUI.verifyElementText(findTestObject('Admin/Dashboard/DashBoardElement/San pham ban chay'), 'Sản phẩm bán chạy')
+WebUI.verifyElementText(findTestObject('Client/Page_Biolife - Organic Food/check Order'), 'Kiểm Tra Đơn Hàng')
 
-WebUI.verifyElementText(findTestObject('Admin/Dashboard/DashBoardElement/Tong doanh thu'), 'Tổng doanh thu')
-
-WebUI.verifyElementText(findTestObject('Admin/Dashboard/DashBoardElement/Tong don hang'), 'Tổng đơn hàng')
-
-WebUI.verifyElementText(findTestObject('Admin/Dashboard/DashBoardElement/Tong san pham'), 'Tổng sản phẩm')
-
-WebUI.acceptAlert()
+WebUI.closeBrowser()
 
