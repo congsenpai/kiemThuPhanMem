@@ -6,12 +6,12 @@
    <elementGuidId>b9c140d0-8210-487d-839d-edc1bc15b0b5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>strong.fl-title</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Share:'])[1]/following::strong[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong.fl-title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

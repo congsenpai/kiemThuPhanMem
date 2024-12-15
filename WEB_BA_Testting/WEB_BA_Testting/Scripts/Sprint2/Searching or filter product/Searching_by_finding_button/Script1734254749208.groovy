@@ -14,6 +14,7 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
@@ -21,17 +22,22 @@ WebUI.openBrowser('http://127.0.0.1:8000')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Client/Order_management/a_check_order'))
+WebUI.setText(findTestObject('Client/Cart/input_search'), 'dâu')
 
-WebUI.click(findTestObject('Client/Order_management/button_Phone_Email'))
+WebUI.click(findTestObject('Client/Cart/button_search'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Client/Order_management/input_Email'), 'gbao2893@gmail.com')
+// Lấy kết quả tìm kiếm
+String searchText = 'dâu'
 
-WebUI.setText(findTestObject('Client/Order_management/input_Phone'), '0888379199')
+String actualText = WebUI.getText(findTestObject('Client/Cart/result-by_search_or_categoriment_filter')).toLowerCase()
 
-WebUI.click(findTestObject('Client/Order_management/button_Check'))
+// Kiểm tra và báo kết quả test
+if (actualText.contains(searchText.toLowerCase())) {
+    KeywordUtil.markPassed('Kết quả tìm kiếm chứa chuỗi mong muốn: ' + searchText)
+} else {
+    KeywordUtil.markFailed('Kết quả tìm kiếm không chứa chuỗi: ' + searchText)
+}
 
-WebUI.verifyElementText(findTestObject('Client/Cart/check Order'), 'Kiểm Tra Đơn Hàng')
-
+// Chấp nhận cảnh báo nếu có
 WebUI.closeBrowser()
 

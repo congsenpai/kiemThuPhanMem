@@ -33,7 +33,7 @@ WebUI.setEncryptedText(findTestObject('Client/Register_client/input_confim_passw
 
 WebUI.click(findTestObject('Client/Register_client/Button_register'))
 
-WebUI.verifyElementText(findTestObject('Client/Register_client/Page_Biolife - Organic Food/p_Mt khu nhp li khng khp'), 'Mật khẩu nhập lại không khớp.')
+WebUI.verifyElementText(findTestObject('Client/Register_client/p_Mt khu nhp li khng khp'), 'Mật khẩu nhập lại không khớp.')
 
 WebUI.closeBrowser()
 

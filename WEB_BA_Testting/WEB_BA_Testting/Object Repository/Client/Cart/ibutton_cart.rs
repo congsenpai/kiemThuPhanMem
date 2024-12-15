@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ibutton_cart</name>
+   <tag></tag>
+   <elementGuidId>4c1c9914-4282-4481-acd3-e303a8cd3c8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div[2]/div/div/div[3]/div/div[2]/div/a/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-cart-mini.biolife-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ad142f87-e61d-422e-bf73-780ec289be23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-cart-mini biolife-icon</value>
+      <webElementGuid>37a3fb57-847a-4d60-8cee-96d4de7c3253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header-middle biolife-sticky-object&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-2 col-md-3 col-sm-6 col-xs-6&quot;]/div[@class=&quot;biolife-cart-info&quot;]/div[@class=&quot;minicart-block&quot;]/div[@class=&quot;minicart-contain&quot;]/a[@class=&quot;link-to&quot;]/span[@class=&quot;icon-qty-combine&quot;]/i[@class=&quot;icon-cart-mini biolife-icon&quot;]</value>
+      <webElementGuid>717257fd-8ea4-4e71-a16d-ecc14ef3df66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div[2]/div/div/div[3]/div/div[2]/div/a/span/i</value>
+      <webElementGuid>f7300177-b834-40fc-8234-df9762ee1087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>cbdb055d-5132-4f17-8b9e-ba8d7b0e40cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

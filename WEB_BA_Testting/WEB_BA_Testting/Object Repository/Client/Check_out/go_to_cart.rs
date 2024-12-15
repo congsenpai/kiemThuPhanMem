@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>go_to_cart</name>
+   <tag></tag>
+   <elementGuidId>68d7c892-2f67-4cf2-a141-3d07b3bb175c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-cart-mini.biolife-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div[2]/div/div/div[3]/div/div[2]/div/a/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>efe27a2c-0b1d-4b77-9331-dd8752b110c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-cart-mini biolife-icon</value>
+      <webElementGuid>94787bb1-e775-4395-a563-e2c57f095c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header-middle biolife-sticky-object&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-2 col-md-3 col-sm-6 col-xs-6&quot;]/div[@class=&quot;biolife-cart-info&quot;]/div[@class=&quot;minicart-block&quot;]/div[@class=&quot;minicart-contain&quot;]/a[@class=&quot;link-to&quot;]/span[@class=&quot;icon-qty-combine&quot;]/i[@class=&quot;icon-cart-mini biolife-icon&quot;]</value>
+      <webElementGuid>50239f2f-4752-490d-84cb-3a24da713467</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div[2]/div/div/div[3]/div/div[2]/div/a/span/i</value>
+      <webElementGuid>197fa0ee-d20e-45f9-abc2-f1992c65b182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>314129b6-a270-437d-8593-66f2304cbc88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

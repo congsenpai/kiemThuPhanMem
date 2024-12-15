@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icheck detail</name>
+   <tag></tag>
+   <elementGuidId>8ecba707-fda8-427e-939e-6f977f28ac53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.product-thumbnail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div[2]/ul/li/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f017fece-bfdf-4897-b20f-393975d550fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/storage/products/yoAJ6XVVALc85LCPYONVRNvFC9eF6QMFAZokowJA.png</value>
+      <webElementGuid>c12dbed4-c66f-4925-9555-22d3b2c6d556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>TH Truemilk update</value>
+      <webElementGuid>fcc7ba27-b10f-4060-8edf-569a685b2483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-thumbnail</value>
+      <webElementGuid>4c0b279c-a517-40ed-8a64-e36d9f686a81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;product-category grid-style&quot;]/div[@class=&quot;row&quot;]/ul[@class=&quot;products-list row&quot;]/li[@class=&quot;product-item col-lg-4 col-md-4 col-sm-6 col-xs-12&quot;]/div[@class=&quot;contain-product layout-default&quot;]/div[@class=&quot;product-thumb&quot;]/a[@class=&quot;link-to-product&quot;]/img[@class=&quot;product-thumbnail&quot;]</value>
+      <webElementGuid>a7074318-2ed0-4763-a843-3f3296563b0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div[2]/ul/li/div/div/a/img</value>
+      <webElementGuid>9b9426b7-d541-462b-94b5-eb75bbbee996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='TH Truemilk update']</value>
+      <webElementGuid>ef21a848-386d-4db8-b023-50a96800da77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/a/img</value>
+      <webElementGuid>555fb8a8-d752-4689-bb93-8c6b49ecc2c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/storage/products/yoAJ6XVVALc85LCPYONVRNvFC9eF6QMFAZokowJA.png' and @alt = 'TH Truemilk update']</value>
+      <webElementGuid>5e9c5ece-3308-496b-9bf5-3140125938b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

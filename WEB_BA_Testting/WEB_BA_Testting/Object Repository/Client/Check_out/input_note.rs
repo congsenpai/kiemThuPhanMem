@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Phone</name>
+   <name>input_note</name>
    <tag></tag>
-   <elementGuidId>cf25a267-ed8c-4ab6-a427-d1b965e2ad11</elementGuidId>
+   <elementGuidId>c6de9553-bc0e-4dc9-bb7c-d3efe15f064b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#form-phone-email > div.form-group.mt-3 > #phone</value>
+         <value>#note</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@id='phone'])[2]</value>
+         <value>//input[@id='note']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0f45ba49-a5eb-4b9f-ad7a-9c1f9b60e564</webElementGuid>
+      <webElementGuid>1f7d5ac0-329a-4c8b-9335-481fc76ad468</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,78 +31,70 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b6dab580-613a-4943-8d57-f9ca50e5b749</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>phone</value>
-      <webElementGuid>0ef7e727-b3df-4f29-991d-a409e07567a9</webElementGuid>
+      <webElementGuid>7ce3e7ab-7aa3-487b-b8e9-2d7e58362f11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>phone</value>
-      <webElementGuid>405873bc-7e6e-482d-aa05-f576ba8dbb80</webElementGuid>
+      <value>note</value>
+      <webElementGuid>55a78202-0213-43c1-90b0-b86c3624a5e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>name</name>
       <type>Main</type>
-      <value>Số điện thoại</value>
-      <webElementGuid>c0931d34-53e8-45f1-84f7-9e5d158bec0f</webElementGuid>
+      <value>note</value>
+      <webElementGuid>401a1176-726c-4f85-8b43-9b9aaebc844e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control mx-auto</value>
-      <webElementGuid>6b22988a-7088-459b-9232-5cee46c4309e</webElementGuid>
+      <value>txt-input</value>
+      <webElementGuid>3c1adbb3-c745-4f7d-a9c9-c2b05da76438</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;form-phone-email&quot;)/div[@class=&quot;form-group mt-3&quot;]/input[@id=&quot;phone&quot;]</value>
-      <webElementGuid>a29cad76-3690-406e-bb36-4395285b8c5b</webElementGuid>
+      <value>id(&quot;note&quot;)</value>
+      <webElementGuid>cd78dcef-8691-4325-9d5c-c3fad2e590e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@id='phone'])[2]</value>
-      <webElementGuid>2f6cca11-6333-404c-a501-60d4ed3affff</webElementGuid>
+      <value>//input[@id='note']</value>
+      <webElementGuid>dac2c5d7-7e87-4493-9ffd-60a05ddabe82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='form-phone-email']/div/input</value>
-      <webElementGuid>38217363-123c-4988-bbb0-87d97fb3b1df</webElementGuid>
+      <value>//div[@id='main-content']/div/div/div/div/div[5]/input</value>
+      <webElementGuid>9d3d0748-ec55-4308-843f-38081862cec3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form[3]/div/input</value>
-      <webElementGuid>6a22657d-d2e1-485d-a720-52924cb1aea1</webElementGuid>
+      <value>//div[5]/input</value>
+      <webElementGuid>f5ed0b1c-6627-47fa-adaf-4a2ba8f65efe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'phone' and @id = 'phone' and @placeholder = 'Số điện thoại']</value>
-      <webElementGuid>46b201fa-b9b6-4ae5-8d60-7f1eacf49564</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'note' and @name = 'note']</value>
+      <webElementGuid>05b26c47-40b1-464a-b207-ff31907599e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

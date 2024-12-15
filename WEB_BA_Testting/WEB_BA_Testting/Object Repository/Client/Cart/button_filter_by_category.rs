@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_filter_by_category</name>
+   <tag></tag>
+   <elementGuidId>25719c4d-8cde-4799-bc78-4bbe5b00e584</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div[3]/div/div/div/div/div[2]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.menu.clone-main-menu > li.menu-item > a.menu-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b6045a39-fd20-4660-a154-24132af74281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/danh-muc/1</value>
+      <webElementGuid>4a2e459c-f591-4942-a341-f5734e2cd435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title</value>
+      <webElementGuid>b1b3f8c4-18db-46fc-9d85-d88880f83384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dâu Tây &amp; Việt Quất</value>
+      <webElementGuid>5dcf08d2-019f-4493-99e8-2b2432ed8e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header-bottom hidden-sm hidden-xs&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-3 col-md-4&quot;]/div[@class=&quot;vertical-menu vertical-category-block open-menu&quot;]/div[@class=&quot;wrap-menu&quot;]/ul[@class=&quot;menu clone-main-menu&quot;]/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-title&quot;]</value>
+      <webElementGuid>8e8b42d5-8d2c-41a1-af32-c2397d3fe771</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div[3]/div/div/div/div/div[2]/ul/li/a</value>
+      <webElementGuid>e48210df-050d-4356-bb53-d4dda6591f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Dâu Tây &amp; Việt Quất')])[2]</value>
+      <webElementGuid>097be07c-3950-420e-9aae-44547e43387a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục sản phẩm'])[4]/following::a[1]</value>
+      <webElementGuid>c21a45df-9283-4893-879f-a71ca6e3d399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ hàng -'])[1]/following::a[1]</value>
+      <webElementGuid>dd303f3f-9fb9-4b4b-9160-06ee3bd15c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nho Nhập Khẩu'])[2]/preceding::a[1]</value>
+      <webElementGuid>aefd3545-a831-4017-a21a-f762f6a2ca81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cherry Mỹ'])[2]/preceding::a[2]</value>
+      <webElementGuid>19166f66-fbc4-4ff5-9a58-30b28d880d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[@href='http://127.0.0.1:8000/danh-muc/1'])[2]</value>
+      <webElementGuid>6f0a98f5-dd4d-4c3e-9b3c-381ef4d33ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/ul/li/a</value>
+      <webElementGuid>c21832ac-0f66-4259-8ee5-e289359509da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://127.0.0.1:8000/danh-muc/1' and (text() = 'Dâu Tây &amp; Việt Quất' or . = 'Dâu Tây &amp; Việt Quất')]</value>
+      <webElementGuid>a53782ae-7f88-44b0-9ea0-3dc26abe53c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

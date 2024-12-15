@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_check_order</name>
+   <name>button_Phone_Email</name>
    <tag></tag>
-   <elementGuidId>e9ba00ad-0b51-41c0-afa2-24b956f769e0</elementGuidId>
+   <elementGuidId>5932179b-4b9c-435f-931d-5e6826f40838</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='primary-menu']/li[5]/a</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,119 +21,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>52483905-f428-4e77-b03f-aada34a4a4f1</webElementGuid>
+      <value>button</value>
+      <webElementGuid>6d27c206-805c-4388-9c29-6ee86c1b3a63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>http://127.0.0.1:8000/order/check</value>
-      <webElementGuid>45c58a09-e978-4fa4-85a8-a94beefd7bbf</webElementGuid>
+      <value>button</value>
+      <webElementGuid>ff3a9ebf-e092-48f2-bf63-8da0b70ff0ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>menu-name</value>
-      <webElementGuid>98de83d6-1fab-4cf6-a926-c1610b4e75cc</webElementGuid>
+      <value>btn btn-outline-primary</value>
+      <webElementGuid>4fc4a38d-d2a0-4989-9cd9-3d1c38a98e2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-title</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>Product</value>
-      <webElementGuid>8b20bfc0-688e-4d89-b679-679b8223d8d9</webElementGuid>
+      <value>showForm('phone_email')</value>
+      <webElementGuid>0e46c43d-703d-4694-b4db-e82ff5f0e5a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Kiểm tra đơn hàng</value>
-      <webElementGuid>ef341361-d570-463b-af98-72f67810d0da</webElementGuid>
+      <value>Số điện thoại và Email</value>
+      <webElementGuid>f3be2f77-242f-47e5-b7d3-ba436eb1e8d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;primary-menu&quot;)/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-name&quot;]</value>
-      <webElementGuid>21cefeb6-b4f2-49b3-b633-cbeac8ee3ed6</webElementGuid>
+      <value>id(&quot;tabs&quot;)/div[@class=&quot;container shadow-sm bg-body rounded&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane active show mt-5&quot;]/div[@class=&quot;text-center mb-3&quot;]/button[@class=&quot;btn btn-outline-primary&quot;]</value>
+      <webElementGuid>179bf6cb-d9b4-4f54-894f-6b1fdfc9602e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>7d140c12-ebb4-4ad8-bf90-90e17501cfc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='primary-menu']/li[5]/a</value>
-      <webElementGuid>8a42ba27-61f4-4392-ba1a-cdfc3560d825</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>(//a[contains(text(),'Kiểm tra đơn hàng')])[2]</value>
-      <webElementGuid>d53ce78d-a301-4cfb-a88d-776207258a53</webElementGuid>
+      <value>//div[@id='tabs']/div/div/div/div/div/div/button[3]</value>
+      <webElementGuid>b5d52f5d-05c4-4947-85bb-ef311e61bb16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liên hệ'])[2]/following::a[1]</value>
-      <webElementGuid>b93fac17-09c8-497d-8436-efff6352457a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
+      <webElementGuid>3ef3d7fa-8058-49ce-b720-30abb27d7d30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Về chúng tôi'])[2]/following::a[2]</value>
-      <webElementGuid>4d44a24f-e142-43a3-b1ca-42bbe397ade1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số điện thoại'])[1]/following::button[2]</value>
+      <webElementGuid>16909963-22f8-4e5f-969b-2c76294cf5bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục sản phẩm'])[2]/preceding::a[3]</value>
-      <webElementGuid>8fe28267-c04e-4fc9-9591-2315e978489e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận'])[1]/preceding::button[1]</value>
+      <webElementGuid>f52f2207-0f58-48a6-af2e-cb83ca1438dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục sản phẩm'])[3]/preceding::a[3]</value>
-      <webElementGuid>3bd049d8-95b8-49f9-8a6f-9ed192968757</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận'])[2]/preceding::button[2]</value>
+      <webElementGuid>c7437fd7-c488-4032-9f60-36056b90d0d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(//a[@href='http://127.0.0.1:8000/order/check'])[2]</value>
-      <webElementGuid>feb1ec45-b111-4a7a-8b08-30d285b91334</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Số điện thoại và Email']/parent::*</value>
+      <webElementGuid>d090839a-a363-400e-8918-c79ca2dc3978</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div[2]/div/ul/li[5]/a</value>
-      <webElementGuid>ee56bc39-d26b-4ed6-8772-01c70984c22d</webElementGuid>
+      <value>//button[3]</value>
+      <webElementGuid>13977195-790f-4b0b-81fc-89a6c2ea9c9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://127.0.0.1:8000/order/check' and (text() = 'Kiểm tra đơn hàng' or . = 'Kiểm tra đơn hàng')]</value>
-      <webElementGuid>3ad33902-287f-4bbc-a278-ed37419cb739</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Số điện thoại và Email' or . = 'Số điện thoại và Email')]</value>
+      <webElementGuid>ab76aa3f-5210-4fe8-887f-307a2876a662</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

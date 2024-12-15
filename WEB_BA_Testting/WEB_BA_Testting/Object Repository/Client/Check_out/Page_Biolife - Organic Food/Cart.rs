@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Mt khu nhp li khng khp</name>
+   <name>Cart</name>
    <tag></tag>
-   <elementGuidId>2ec84127-7309-4095-ac1e-540d65dbcf05</elementGuidId>
+   <elementGuidId>270d0be8-449c-416b-aaa0-1333197b94a7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>p.text-danger</value>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div[2]/div/div/div[3]/div/div[2]/div/a/span[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//form[@id='login-form']/div[3]/p</value>
+         <key>CSS</key>
+         <value>span.title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,95 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>p</value>
-      <webElementGuid>009405bc-b41a-4aef-b5e4-c15e548f9ead</webElementGuid>
+      <value>span</value>
+      <webElementGuid>077d2801-c938-4300-bc3d-efa86cd6b41c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>text-danger</value>
-      <webElementGuid>c753e628-42e9-44b4-b3ef-fed9bd1a555b</webElementGuid>
+      <value>title</value>
+      <webElementGuid>c299d7f1-acc6-440a-a04f-882a6b6f93c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Mật khẩu nhập lại không khớp.</value>
-      <webElementGuid>247ce27a-4731-4b89-9823-4f168c8916fe</webElementGuid>
+      <value>Giỏ hàng - </value>
+      <webElementGuid>a40b8635-09dc-4e9c-ba14-1cfc9ed98af9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login-form&quot;)/div[@class=&quot;form-group&quot;]/p[@class=&quot;text-danger&quot;]</value>
-      <webElementGuid>25b9d421-35c9-4faf-b29a-12b760224f9e</webElementGuid>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header-middle biolife-sticky-object&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-2 col-md-3 col-sm-6 col-xs-6&quot;]/div[@class=&quot;biolife-cart-info&quot;]/div[@class=&quot;minicart-block&quot;]/div[@class=&quot;minicart-contain&quot;]/a[@class=&quot;link-to&quot;]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>1fd09677-b41e-4145-ac5c-2d3dbc7f7e0e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login-form']/div[3]/p</value>
-      <webElementGuid>f1aab490-524c-4d34-b28b-df62c1f86c0b</webElementGuid>
+      <value>//header[@id='header']/div[2]/div/div/div[3]/div/div[2]/div/a/span[2]</value>
+      <webElementGuid>3c52b8fe-5b2e-4afb-9724-a1db8515674c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật khẩu:'])[1]/following::p[1]</value>
-      <webElementGuid>f33a5329-7413-4814-9455-0245a66314ab</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='go'])[1]/following::span[3]</value>
+      <webElementGuid>b4566276-140f-47d4-90a0-35a201293bf3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/following::p[1]</value>
-      <webElementGuid>5cedbd08-242a-4c8e-b6bc-3c642035b3ae</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oatmeal'])[2]/following::span[3]</value>
+      <webElementGuid>a81c4310-44b1-40e0-a254-ea336564177b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận mật khẩu:'])[1]/preceding::p[1]</value>
-      <webElementGuid>f7a56935-c00a-43db-840f-b0c8873aca89</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục sản phẩm'])[4]/preceding::span[6]</value>
+      <webElementGuid>b34d0833-261f-47a4-99ed-cb3108e1c48b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[3]/preceding::p[1]</value>
-      <webElementGuid>0a5c5161-2ba9-47aa-a326-d87c8d94ec24</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dâu Tây &amp; Việt Quất'])[2]/preceding::span[8]</value>
+      <webElementGuid>b1e65032-6e04-436d-a614-6dc7b7c0df50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Mật khẩu nhập lại không khớp.']/parent::*</value>
-      <webElementGuid>3667535a-603d-4d33-85bf-6d0bbf6c6c19</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Giỏ hàng -']/parent::*</value>
+      <webElementGuid>3d2f4f60-8a6f-4e4d-8d78-358c39ce1da6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/p</value>
-      <webElementGuid>ea0ad932-c7c6-479c-a88c-5a37c503b9b0</webElementGuid>
+      <value>//span[2]</value>
+      <webElementGuid>21a6b508-4062-4439-be2c-a4ee7efc1635</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = 'Mật khẩu nhập lại không khớp.' or . = 'Mật khẩu nhập lại không khớp.')]</value>
-      <webElementGuid>302f85da-3e0b-4512-9373-e10f8c3c7ea2</webElementGuid>
+      <value>//span[(text() = 'Giỏ hàng - ' or . = 'Giỏ hàng - ')]</value>
+      <webElementGuid>304b438d-d757-4523-90ce-36ad9d5ed754</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

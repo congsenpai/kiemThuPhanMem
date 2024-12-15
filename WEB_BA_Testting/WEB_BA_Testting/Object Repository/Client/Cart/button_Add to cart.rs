@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add to cart</name>
+   <tag></tag>
+   <elementGuidId>4e050665-3f99-4093-adb9-75b44c617dd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div[2]/ul/li/div/div[2]/div[2]/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.add-to-cart-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5b9daf5a-a075-4c80-a456-9e3b08403a96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/cart/add/67</value>
+      <webElementGuid>048546e4-3ac7-4054-b1f9-3519fe0a1097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn add-to-cart-btn</value>
+      <webElementGuid>078785b8-684f-45b8-88a5-bf2ce45a2f85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>75907e2f-b4e3-48fe-92ee-1e2b70af23e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;product-category grid-style&quot;]/div[@class=&quot;row&quot;]/ul[@class=&quot;products-list row&quot;]/li[@class=&quot;product-item col-lg-4 col-md-4 col-sm-6 col-xs-12&quot;]/div[@class=&quot;contain-product layout-default&quot;]/div[@class=&quot;info&quot;]/div[@class=&quot;slide-down-box&quot;]/div[@class=&quot;buttons&quot;]/a[@class=&quot;btn add-to-cart-btn&quot;]</value>
+      <webElementGuid>37aba247-b1bc-43ab-9ffd-614d631d5fca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div[2]/ul/li/div/div[2]/div[2]/div/a[2]</value>
+      <webElementGuid>3a978aa2-34e1-4676-bfba-b7416a623f6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add to cart')]</value>
+      <webElementGuid>d804ecdb-e9f3-453d-8817-fda55f68cc3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TH Truemilk update'])[1]/following::a[2]</value>
+      <webElementGuid>1bb7292a-c149-49ba-83b3-57180b417c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fresh Fruit'])[1]/following::a[3]</value>
+      <webElementGuid>179aa36a-3063-4f59-9f36-b0c1c99c645f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fresh Fruit'])[2]/preceding::a[3]</value>
+      <webElementGuid>acf54a90-7c3c-4b8e-b2c8-5d9e7d4517e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dâu Hàn Quốc Joy Farm (hộp 200g) _ (I0015574)'])[1]/preceding::a[3]</value>
+      <webElementGuid>09e2e460-2a4b-4873-9c7c-828a8047ded3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add to cart']/parent::*</value>
+      <webElementGuid>d930c4c0-12ab-41a6-a252-7c2082d36043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://127.0.0.1:8000/cart/add/67']</value>
+      <webElementGuid>8d7a91d9-f061-4bea-a886-d611cf1edc68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a[2]</value>
+      <webElementGuid>4d7490ec-ad10-4060-9685-043a827417f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://127.0.0.1:8000/cart/add/67' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
+      <webElementGuid>3e606f03-1b40-48b6-b2f0-e2dc2c1da157</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

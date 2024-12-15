@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>check_success</name>
+   <tag></tag>
+   <elementGuidId>2230a2bf-c769-44d6-81a6-1beba5c6d947</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='notification']/div/div/span/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.text-success.mt-2.mb-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>79456ef4-be8c-472a-9783-40e448ed68af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-success mt-2 mb-3</value>
+      <webElementGuid>f0652ea5-96ee-4103-9e0d-c6cbf7c655d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đặt hàng thành công</value>
+      <webElementGuid>6d304ceb-23db-4e2e-a44d-97acdaa2c1b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;notification&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;text-center&quot;]/span[@class=&quot;text-success&quot;]/h4[@class=&quot;text-success mt-2 mb-3&quot;]</value>
+      <webElementGuid>dac2c890-d2fd-475d-a807-5b5d0b7c6b31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='notification']/div/div/span/h4</value>
+      <webElementGuid>49d29884-4949-4343-b106-6bb2c32d2cc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(+900) 123 456 7891'])[1]/following::h4[1]</value>
+      <webElementGuid>16c89a7b-c203-469c-bba7-3dee7961d61a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sầu Riêng'])[2]/following::h4[1]</value>
+      <webElementGuid>6cb3ce8e-2ab9-4fd8-8bb1-e85f9004a5ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Got Questions ?'])[1]/preceding::h4[1]</value>
+      <webElementGuid>c2bb4841-b9c0-478c-a8ab-1bc0604f07fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter Signup'])[1]/preceding::h4[1]</value>
+      <webElementGuid>255abd6f-8875-48f9-93be-134df04407fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đặt hàng thành công']/parent::*</value>
+      <webElementGuid>704ef8e8-0973-499e-ba23-c87730a2ced4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>f597cc01-7876-4c73-8b0b-4660cb0d3487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Đặt hàng thành công' or . = 'Đặt hàng thành công')]</value>
+      <webElementGuid>9b343e3d-013c-4e36-9b61-bf70a44b249c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

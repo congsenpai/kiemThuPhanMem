@@ -21,17 +21,17 @@ WebUI.openBrowser('http://127.0.0.1:8000')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Client/Order_management/Page_Biolife - Organic Food/a_check_order'))
+WebUI.click(findTestObject('Client/Order_management/a_check_order'))
 
-WebUI.click(findTestObject('Client/Order_management/Page_Biolife - Organic Food/button_Phone_Email'))
+WebUI.click(findTestObject('Client/Order_management/button_Phone_Email'))
 
-WebUI.setText(findTestObject('Client/Order_management/Page_Biolife - Organic Food/input_Email'), 'gbao2893@gmail.com')
+WebUI.setText(findTestObject('Client/Order_management/input_Email'), 'gbao2893@gmail.com')
 
-WebUI.setText(findTestObject('Client/Order_management/Page_Biolife - Organic Food/input_Phone'), '0967986300')
+WebUI.setText(findTestObject('Client/Order_management/input_Phone'), '0967986300')
 
-WebUI.click(findTestObject('Client/Order_management/Page_Biolife - Organic Food/button_Check'))
+WebUI.click(findTestObject('Client/Order_management/button_Check'))
 
-WebUI.verifyElementText(findTestObject('Client/Order_management/Page_Biolife - Organic Food/span_result'), '#77')
+WebUI.verifyElementText(findTestObject('Client/Order_management/span_result'), '#77')
 
 WebUI.closeBrowser()
 

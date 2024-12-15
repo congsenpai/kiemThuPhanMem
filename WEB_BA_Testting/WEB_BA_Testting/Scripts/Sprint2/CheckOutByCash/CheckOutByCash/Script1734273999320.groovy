@@ -21,17 +21,33 @@ WebUI.openBrowser('http://127.0.0.1:8000')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Client/Order_management/a_check_order'))
+WebUI.click(findTestObject('Client/Check_out/a_store'))
 
-WebUI.click(findTestObject('Client/Order_management/button_Phone_Email'))
+WebUI.click(findTestObject('Client/Check_out/icheck detail'))
 
-WebUI.setText(findTestObject('Client/Order_management/input_Email'), 'gbao2893@gmail.com')
+WebUI.click(findTestObject('Client/Check_out/button_add cart'))
 
-WebUI.setText(findTestObject('Client/Order_management/input_Phone'), '0888379199')
+WebUI.click(findTestObject('Client/Check_out/Page_Biolife - Organic Food/Cart'))
 
-WebUI.click(findTestObject('Client/Order_management/button_Check'))
+WebUI.click(findTestObject('Client/Check_out/a_Check_out'))
 
-WebUI.verifyElementText(findTestObject('Client/Cart/check Order'), 'Kiểm Tra Đơn Hàng')
+WebUI.waitForPageLoad(6)
+
+WebUI.setText(findTestObject('Client/Check_out/input_name'), 'giabao')
+
+WebUI.setText(findTestObject('Client/Check_out/Page_Biolife - Organic Food/input__email'), 'giabao088@gmail.com')
+
+WebUI.setText(findTestObject('Client/Check_out/input_phone'), '0888379199')
+
+WebUI.setText(findTestObject('Client/Check_out/input_address'), 'Thái Bình')
+
+WebUI.setText(findTestObject('Client/Check_out/input_note'), 'không có')
+
+WebUI.click(findTestObject('Client/Check_out/span_using_cash'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Client/Check_out/button_get_order'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Client/Check_out/Page_Biolife - Organic Food/check_success'), 'Đặt hàng thành công')
 
 WebUI.closeBrowser()
 

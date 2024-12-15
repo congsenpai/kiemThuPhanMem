@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email</name>
+   <name>input_min_price</name>
    <tag></tag>
-   <elementGuidId>42d0afde-1011-40f5-8fc5-a15a1658b8b7</elementGuidId>
+   <elementGuidId>30d87c7b-3d33-4d2e-a2a6-0a3cc7114d66</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#form-phone-email > div.form-group.mt-3 > #email</value>
+         <key>XPATH</key>
+         <value>//input[@id='pr-from']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@id='email'])[2]</value>
+         <key>CSS</key>
+         <value>#pr-from</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,86 +23,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1e4458e7-e6d6-41f2-9139-73c52b4658da</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>a1019f76-cc0f-4b0f-9f85-336fe479c306</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>a4dc3477-7e3a-41df-91ef-f6896110860d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>0e4abd0c-9a53-4b0b-b2bc-89a89fbe38a9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Email</value>
-      <webElementGuid>8eef1244-1b57-42e9-baaf-3bce1c4c87e6</webElementGuid>
+      <webElementGuid>57bd283b-7a64-4ccb-9cce-4c2ec3b3b515</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control mx-auto</value>
-      <webElementGuid>ed749d50-28a9-4fa6-9eb3-a23fe02044e9</webElementGuid>
+      <value>input-number</value>
+      <webElementGuid>7f9b1bf5-9089-4ff3-bdb6-ade34197e763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>6c1f6d69-7825-497d-822d-2810980db946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pr-from</value>
+      <webElementGuid>b86b369f-6650-431a-8b5a-1dff6df858e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>08061daa-ee18-4080-ac13-1f1c6f993702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>min_price</value>
+      <webElementGuid>bbddaff8-f294-4dc0-8c36-509603446f52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;form-phone-email&quot;)/div[@class=&quot;form-group mt-3&quot;]/input[@id=&quot;email&quot;]</value>
-      <webElementGuid>d9b2e8b3-bb97-4132-b970-85e3ac2c1305</webElementGuid>
+      <value>id(&quot;pr-from&quot;)</value>
+      <webElementGuid>50d90af3-44e8-4de2-8ab8-a195ba586f1a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@id='email'])[2]</value>
-      <webElementGuid>04d523c7-79a3-48c4-ad40-8a5439556025</webElementGuid>
+      <value>//input[@id='pr-from']</value>
+      <webElementGuid>b9838819-d399-4882-8343-e035c59a46bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='form-phone-email']/div[2]/input</value>
-      <webElementGuid>04a1648e-f0e6-4cf7-8e5d-1926cfe4a892</webElementGuid>
+      <value>//form[@id='price-filter']/p/input</value>
+      <webElementGuid>60940998-981c-4699-a0a8-7beba8288a51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>df29aebd-68af-4d3c-9e03-64a4ad0b40a4</webElementGuid>
+      <value>//p/input</value>
+      <webElementGuid>a0c04c57-6722-4398-90f8-69de9479efb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'email' and @name = 'email' and @id = 'email' and @placeholder = 'Email']</value>
-      <webElementGuid>96154397-526c-4498-8d17-2440fec34853</webElementGuid>
+      <value>//input[@type = 'number' and @id = 'pr-from' and @name = 'min_price']</value>
+      <webElementGuid>95a80810-2fd9-47c3-81fa-02877b10704d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
