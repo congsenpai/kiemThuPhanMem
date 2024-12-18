@@ -18,7 +18,6 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 // Mở trình duyệt và đăng nhập
-WebUI.openBrowser('http://127.0.0.1:8000/admin/login')
 
 WebUI.openBrowser('http://127.0.0.1:8000/admin/login')
 
@@ -30,13 +29,8 @@ WebUI.setEncryptedText(findTestObject('Admin/Login/input_Password_password'), 'a
 
 WebUI.click(findTestObject('Admin/Login/button_login'))
 
-WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Admin/Login/input_Email_email'), 'bao@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Admin/Login/input_Password_password'), 'aeHFOx8jV/A=')
-
-WebUI.click(findTestObject('Admin/Login/button_login'))
 
 // Load file Excel (DataTest)
 TestData testData = findTestData('DataDashBoard')
